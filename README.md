@@ -184,15 +184,15 @@ Below are representative examples (not exhaustive).
 
 **Original Image**
   
-![Original Image](X/image_1.jpg)
+![Original Image](X/image_2.jpg)
 
 **Augmented Image**
   
-![Augmented Image](augmented_X/ShiftScaleRotate/image_1-ShiftScaleRotate.jpg)
+![Augmented Image](augmented_X/ShiftScaleRotate/image_2-ShiftScaleRotate.jpg)
 
 **Augmented Mask**
   
-![Augmented Mask](augmented_y/ShiftScaleRotate/mask_1-ShiftScaleRotate.png)
+![Augmented Mask](augmented_y/ShiftScaleRotate/mask_2-ShiftScaleRotate.png)
 
 This example demonstrates:
 - Correct rotation
